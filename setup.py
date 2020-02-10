@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     license="MIT",
-    url="https://github.com/s2t2/game-utils-py", # TODO
+    url="https://github.com/s2t2/lambdata-inclass-202002",
     keywords="lambda school",
     packages=find_packages() # ["my_lambdata"]
 )
