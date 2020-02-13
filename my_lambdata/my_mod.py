@@ -1,7 +1,4 @@
 
-
-
-
 def enlarge(n):
     """
     Enlarge a number, multiplying by 100
