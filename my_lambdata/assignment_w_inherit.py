@@ -1,5 +1,5 @@
 
-# my_lambdata/assignment.py
+# my_lambdata/assignment_w_inherit.py
 
 import pandas
 

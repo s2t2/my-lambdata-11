@@ -2,9 +2,9 @@ import unittest
 
 from my_lambdata.my_mod import enlarge
 
-class TestStringMethods(unittest.TestCase):
+class MyModTest(unittest.TestCase):
 
-    def test_upper(self):
+    def test_enlarge(self):
         self.assertEqual(enlarge(4), 400)
 
 if __name__ == '__main__':
